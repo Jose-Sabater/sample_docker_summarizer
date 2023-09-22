@@ -4,7 +4,7 @@
 - **Method 1**: flask app that runs a endpoiunt where you just request a summarization. See test_api.py
 - **Method 2**: the container runs directly a script to the pipeline class
 
-## Instructions
+## Instructions alternative 1
 
 ```bash
 docker build -t summarizer_api .
