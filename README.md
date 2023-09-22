@@ -1,4 +1,4 @@
-# Containerize a huggingface with 2 methods
+# Containerize a huggingface pipeline with 2 methods
 
 ## Description
 - **Method 1**: flask app that runs a endpoiunt where you just request a summarization. See test_api.py
